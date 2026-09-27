@@ -1,0 +1,6 @@
+{
+  "name": "Captain Mobile",
+  "description": "نظام احترافي لإدارة صيانة واستلام أجهزة الموبايل - كابتن موبايل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
